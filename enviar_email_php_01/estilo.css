@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html, body {
+margin:0;
+padding:0;		
+font-family:Verdana, Geneva, sans-serif;
+font-size:14px;
+text-decoration:none;
+color:#ababab;
+text-shadow: #999 1px 2px 2px;
+
+
+	
+}
+
+.titulo{
+font-size:24px;
+text-decoration:none;
+color:#E48686;	
+}
+.titulo:hover{
+	
+color:#D60808;	
+}
+
+input:hover{
+background-color:#F5F4CE;
+}
+
+table{
+margin-left:10px;	
+}
+
+/*.quadro{
+	width:700px;
+	height:600px;
+	margin-top: 20px;
+	box-shadow: 0px 0px 1em #666;
+-webkit-box-shadow: 0px 0px 1em #666;
+-moz-box-shadow: 0px 0px 1em #666;
+border-radius:5px;
+
+}
+*/
