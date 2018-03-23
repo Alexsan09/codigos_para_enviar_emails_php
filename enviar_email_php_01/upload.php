@@ -1,4 +1,4 @@
-﻿  <style type="text/css">
+<style type="text/css">
   h2 {
 	  font-size:20px;
 	  font-family:Tahoma, Geneva, sans-serif;
